@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apk": "AppLock-v1.1.1.apk",
+  "sha256": "af01b675ac3e5a49d9d93e007726c3b8b3eb0d8ff607bb3e477d2e62bd3ca046",
+  "notes": "First published version.\n- Hide notification content from locked apps (optional)\n- Instant mode: covers picture-in-picture; experimental recent-apps lock\n- Check for updates from Settings"
+}

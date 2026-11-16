@@ -1,7 +1,7 @@
 # AppLock downloads
 
 Downloads for **AppLock**, a private app locker for Android. This repository contains only the finished app.
-Open **Releases** on the right and pick the latest version.
+Download the newest `AppLock-vX.Y.Z.apk` from the file list above (open the file, then **Download raw file**). `latest.json` names the current version.
 
 | File | For |
 | --- | --- |
